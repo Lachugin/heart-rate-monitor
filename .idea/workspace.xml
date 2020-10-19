@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9357b2be-3073-457b-9fc5-b9e5c90abaed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="9357b2be-3073-457b-9fc5-b9e5c90abaed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../coureJs/node/group-nodejs-3/Lachugin" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601455716062</updated>
       <workItem from="1601455717646" duration="384000" />
+      <workItem from="1602781997282" duration="14000" />
     </task>
     <servers />
   </component>
@@ -84,5 +81,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="650" key="FileChooserDialogImpl" timestamp="1602782008417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="488" y="650" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1602782008417" />
   </component>
 </project>
